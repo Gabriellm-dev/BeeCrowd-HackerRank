@@ -10,17 +10,8 @@
 
 
 
-## :file_folder: Exercícios BeeCrowd.
+## [:file_folder: Exercícios BeeCrowd.](https://github.com/Gabriellm-dev/BeeCrowd-HackerRank/tree/main/BeeCrowd)
 
 ## :file_folder:Exercícios HackerRank.
 
-
-
-
-
-​			
-
-
-
-
-
+		
